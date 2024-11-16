@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
+name: Peng Luo
 image: images/photo.jpg
-role: pi
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+role: Postdoc 
+affiliation: Massachusetts Institute of Technology
+# aliases:
+#   - J. Smith
+#   - J Smith
 links:
-  home-page: https://janesmith.com
+  home-page: https://dusp.mit.edu/people/peng-luo
   orcid: 0000-0001-8713-9213
 ---
 

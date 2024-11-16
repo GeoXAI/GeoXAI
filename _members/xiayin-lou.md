@@ -1,10 +1,11 @@
 ---
-name: John Doe
+name: Xiayin Lou
 image: images/photo.jpg
-role: phd
-group: alum
+role: Doctoral candidate
+affiliation: Technical University of Munich
+# group: alum
 links:
-  github: john-doe
+  github: vezarachan
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

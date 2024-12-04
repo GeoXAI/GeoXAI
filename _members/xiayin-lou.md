@@ -3,6 +3,7 @@ name: Xiayin Lou
 image: images/photo.jpg
 role: Doctoral candidate
 affiliation: Technical University of Munich
+# description: Geographic Bias
 # group: alum
 links:
   github: vezarachan

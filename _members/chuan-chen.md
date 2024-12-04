@@ -1,11 +1,11 @@
 ---
-name: Sarah Johnson
+name: Chuan Chen
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+# description: Doctoral candidate
+role: Doctoral candidate
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: chuan.chen@tum.de
+  # twitter: sarahjohnson
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
